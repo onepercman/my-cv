@@ -1,4 +1,4 @@
-# TRUNG TRAN DUY  
+# TRUNG TRAN DUY  (onepercman)
 Frontend Engineer / Frontend Lead
 
 Hanoi, Vietnam  
@@ -82,7 +82,7 @@ Jun 2024
 
 ## SELECTED WORK
 
-### ONUS Chain — Moonlab  
+### ONUS Chain — Moonlab (Layer 2)  
 Feb 2022
 
 - Developed UI for Ethereum Layer 2 ecosystem products
