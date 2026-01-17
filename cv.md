@@ -37,6 +37,45 @@ Jun 2021 – Apr 2022
 
 ---
 
+## SELECTED WORK
+
+### TheVapeLabs
+Feb 2024 – Nov 2025
+
+- Led frontend development for web app, marketing site, and landing pages
+- Built scalable UI architecture supporting rapid iteration
+- thevapelabs.io | nads.thevapelabs.io
+
+### ONUS Chain — Moonlab (Layer 2)
+Feb 2022
+
+- Developed UI for Ethereum Layer 2 ecosystem products
+- Built block explorer interfaces and landing pages
+- onuschain.io
+
+### Mcity (Metaverse) — Moonlab
+Dec 2022
+
+- Developed dApps for NFT and token-based metaverse platform on BSC
+
+### Run Together (Move-to-Earn) — Moonlab
+Mar 2022
+
+- Built frontend dApps for move-to-earn ecosystem in collaboration with ONUS
+
+### Animverse (GameFi) — Moonlab
+Nov 2021
+
+- Developed GameFi dApps for NFT and token issuance on BSC
+
+### COVID-19 Vaccination Registration System — Teracom
+Oct 2021
+
+- Built public-facing registration UI and internal management dashboard
+- Project commissioned by the Ministry of Public Security
+
+---
+
 ## SKILLS
 
 TypeScript, React, Next.js, TailwindCSS, Vite
